@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+form{
+    border: 10px solid rgb(130, 42, 238);
+    height: 300px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 550px;
+    padding: 80px;
+}
+form,label,input{
+    display: block;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    align-items: center;
+    margin-left: 50px;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#btn{
+    padding: 10px;
+    width: 190px;
+    color: white;
+    background-color:rgb(130, 42, 238);
+    border-radius: 5px;
+}
